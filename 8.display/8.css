@@ -1,0 +1,16 @@
+.box1 {
+    background-color: red;
+}
+
+.box2 {
+    padding: 100px 0 100px 0;
+    margin: 100px;
+    display: inline;
+    background-color: aqua;
+}
+.box3 {
+    padding: 100px;
+    margin: 100px;
+    display: inline-block;
+    background-color: violet;
+}
